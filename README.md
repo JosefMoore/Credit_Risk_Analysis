@@ -9,4 +9,5 @@ The goal of this project is to find the best Supervised Machine Learning model t
 ____________________
 
 ##### Random Over Sampling
-* 
+* Not very accurate for our first model. On to the next.
+![](Notebooks/Results/ros_ba.PNG)
